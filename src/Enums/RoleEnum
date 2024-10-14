@@ -1,0 +1,7 @@
+<?php
+
+enum RoleEnum
+{
+    case ADMIN = 'admin';
+    case MEMBER = 'member';
+}
